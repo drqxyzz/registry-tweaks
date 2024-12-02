@@ -1,6 +1,4 @@
 # Windows registry tweaks
-
- Select from 2 tweaks
  
  Use Complete Tweaks for extreme gaming tweaks, won't recommend using these on your laptop and/or daily basis working computer, since there are not animations.
  
